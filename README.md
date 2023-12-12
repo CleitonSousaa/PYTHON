@@ -1,6 +1,7 @@
-# FREELANCE / PROJETOS / DESAFIOS
+# SOBRE
+- freelance / projetos / desafios
 
-### INSTALAÇÃO DAS DEPENDÊNCIAS
+- Instalação das dependências
 ```pip install -r requeriments.txt```
 
 # Projeto 01
