@@ -1,22 +1,22 @@
 # SOBRE
-- freelance / projetos / desafios
+- freelances / projetos / desafios
 
 - Instalação das dependências
 ```pip install -r requeriments.txt```
 
-# Projeto 01
+## Projeto 01
 
 - Automação  usando PYAUTOGUI, TIME para cadastrar vários registros em um software
 
-# Projeto 02
+## Projeto 02
 
 - Automação usando PANDAS, OS, DATETIME, DATETIME, OPENPYXL, PYWIN32 faz a leitura de arquivos csv, converte em uma planilha excel e envia por e-mail
 
-# Projeto 03
+## Projeto 03
 
 - Atualiza os valores de uma planilha excell de acordo com os parâmetros passador pelo cliente  
 
-### Parâmetros
+- Parâmetros:
 > TODOS OS PRODUTOS COM VALORES ACIMA DE 50$ TEM IMPOSTO DE 60%     
 > TODOS OS PRODUTO COM VALORES INFERIORES A 50$ TEM IMPOSTO DE 17%    
 > PRODUTOS DA CATEGORIA MOBILIA TEM DESCONTO DE - 7%    
@@ -26,7 +26,7 @@
 
 - faz a mesclagem de todos os arquivos pdf em um só
 
-### Uso
+- Uso:
 > Cole os arquivos pdf dentro da pasta 'arquivos'    
 > Para uma orgazinação melhor da ordem se pode renomerar numerando cada arquivos que deseja em ordem crescente    
 > Execute o código     
