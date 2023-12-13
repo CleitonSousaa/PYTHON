@@ -1,18 +1,26 @@
-# SOBRE
-- freelances / projetos / desafios
+# SOBRE  
+- freelances / projetos / desafios  
 
-- Instalação das dependências
-```pip install -r requeriments.txt```
+- Instalação das dependências  
+```pip install -r requeriments.txt```  
 
-## Projeto 01
+## Projeto 01  
 
-- Automação  usando PYAUTOGUI, TIME para cadastrar vários registros em um software
+- Automação de tarefa para cadastrar vários registros em um software  
+- Tecnologias usadas :  
+- PYAUTOGUI  
+- TIME  
+## Projeto 02  
 
-## Projeto 02
+- Automação de tarefa que faz a leitura de arquivos csv, converte em uma planilha excel e envia por e-mail
+- Tecnologias usadas :
+> PANDAS  
+> OS  
+> DATETIME  
+> OPENPYXL  
+> PYWIN32  
 
-- Automação usando PANDAS, OS, DATETIME, DATETIME, OPENPYXL, PYWIN32 faz a leitura de arquivos csv, converte em uma planilha excel e envia por e-mail
-
-## Projeto 03
+## Projeto 03  
 
 - Atualiza os valores de uma planilha excell de acordo com os parâmetros passador pelo cliente  
 
@@ -22,30 +30,29 @@
 > PRODUTOS DA CATEGORIA MOBILIA TEM DESCONTO DE - 7%    
 > PRODUTOS DA CATEGORIA GAMES TERA REAJUSTE DE PRECO PARA  3%  
 
-# Projeto 04
+# Projeto 04  
 
-- faz a mesclagem de todos os arquivos pdf em um só
+- faz a mesclagem de todos os arquivos pdf em um só  
 
-- Uso:
+- Tecnologias usadas :  
+> PyPDF2  
+
+- Uso:  
 > Cole os arquivos pdf dentro da pasta 'arquivos'    
 > Para uma orgazinação melhor da ordem se pode renomerar numerando cada arquivos que deseja em ordem crescente    
 > Execute o código     
 > completo !!!  
 
-# Projeto 04
+# Projeto 05  
+- api ligada ao um banco de dados  
 
-- Criação de uma api com python usando o flask e pandas
-
-# Projeto 05
-- api ligada ao um banco de dados
-
-- Tecnologias usadas :
+- Tecnologias usadas :  
 > flask  
 > flask_pydantic_spec  
 > pydantic  
 > tinydb  
 
-- Uso :
+- Uso :  
 > apos executar o código entrar acesse em http://127.0.0.1:5000/apidoc/swagger para ver como os metodos e a api funciona  
 > o aceso a api para uso fica em http://127.0.0.1:5000/pessoas  
 
