@@ -30,4 +30,22 @@
 > Cole os arquivos pdf dentro da pasta 'arquivos'    
 > Para uma orgazinação melhor da ordem se pode renomerar numerando cada arquivos que deseja em ordem crescente    
 > Execute o código     
-> completo !!!
+> completo !!!  
+
+# Projeto 04
+
+- Criação de uma api com python usando o flask e pandas
+
+# Projeto 05
+- api ligada ao um banco de dados
+
+- Tecnologias usadas :
+> flask  
+> flask_pydantic_spec  
+> pydantic  
+> tinydb  
+
+- Uso :
+> apos executar o código entrar acesse em http://127.0.0.1:5000/apidoc/swagger para ver como os metodos e a api funciona  
+> o aceso a api para uso fica em http://127.0.0.1:5000/pessoas  
+

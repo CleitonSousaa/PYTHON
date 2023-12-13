@@ -1,5 +1,0 @@
-para ativar o ambiente virtual no terminal cole:
-venv/Scripts/Activate.ps1
-
-para desativar cole:
-deactivate 
