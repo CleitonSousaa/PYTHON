@@ -56,3 +56,8 @@
 > apos executar o código entrar acesse em http://127.0.0.1:5000/apidoc/swagger para ver como os metodos e a api funciona  
 > o aceso a api para uso fica em http://127.0.0.1:5000/pessoas  
 
+# Projeto 06  
+- Raspagem de dados da web  
+- Tecnologias usadas :  
+> beautifulsoup4   
+> requests   
