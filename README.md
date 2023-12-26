@@ -1,16 +1,16 @@
 # SOBRE  
-- freelances / projetos / desafios  
+## freelances / projetos / desafios  
 
-- Instalação das dependências  
+- Instalação das dependências em cada arquivo :  
 ```pip install -r requeriments.txt```  
 
-## Projeto 01  
+### Projeto 01  
 
 - Automação de tarefa para cadastrar vários registros em um software  
 - Tecnologias usadas :  
-- PYAUTOGUI  
-- TIME  
-## Projeto 02  
+> PYAUTOGUI   
+> TIME   
+### Projeto 02  
 
 - Automação de tarefa que faz a leitura de arquivos csv, converte em uma planilha excel e envia por e-mail
 - Tecnologias usadas :
@@ -20,7 +20,7 @@
 > OPENPYXL  
 > PYWIN32  
 
-## Projeto 03  
+### Projeto 03  
 
 - Atualiza os valores de uma planilha excell de acordo com os parâmetros passador pelo cliente  
 
@@ -30,20 +30,20 @@
 > PRODUTOS DA CATEGORIA MOBILIA TEM DESCONTO DE - 7%    
 > PRODUTOS DA CATEGORIA GAMES TERA REAJUSTE DE PRECO PARA  3%  
 
-# Projeto 04  
+### Projeto 04  
 
 - faz a mesclagem de todos os arquivos pdf em um só  
 
 - Tecnologias usadas :  
 > PyPDF2  
 
-- Uso:  
+- Uso :  
 > Cole os arquivos pdf dentro da pasta 'arquivos'    
 > Para uma orgazinação melhor da ordem se pode renomerar numerando cada arquivos que deseja em ordem crescente    
 > Execute o código     
 > completo !!!  
 
-# Projeto 05  
+### Projeto 05  
 - api ligada ao um banco de dados  
 
 - Tecnologias usadas :  
@@ -56,8 +56,17 @@
 > apos executar o código entrar acesse em http://127.0.0.1:5000/apidoc/swagger para ver como os metodos e a api funciona  
 > o aceso a api para uso fica em http://127.0.0.1:5000/pessoas  
 
-# Projeto 06  
+### Projeto 06  
 - Raspagem de dados da web  
 - Tecnologias usadas :  
 > beautifulsoup4   
-> requests   
+> requests  
+
+### Projeto 07 - Automação que organizar arquivos em pastas  
+- Tecnologias usadas:  
+> tkinter  
+> os  
+- Uso :  
+> execute o arquivo main.py    
+> selecione a pasta que deseja organizar   
+> execute  
