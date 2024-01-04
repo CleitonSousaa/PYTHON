@@ -70,3 +70,6 @@
 > execute o arquivo main.py    
 > selecione a pasta que deseja organizar   
 > execute  
+
+### Projeto 08 - Projeto de gerenciador de gastos para uso pessoal 
+- 
