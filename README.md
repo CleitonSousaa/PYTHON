@@ -71,5 +71,8 @@
 > selecione a pasta que deseja organizar   
 > execute  
 
-### Projeto 08 - Projeto de gerenciador de gastos para uso pessoal 
-- 
+### Projeto 08 - Projeto de gerenciador de gastos para uso pessoal   
+- Gerenciar dinheiro  
+- Tecnologias usadas:   
+> openpyxl   
+> matplotlib  
