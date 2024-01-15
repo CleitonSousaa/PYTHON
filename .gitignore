@@ -1,1 +1,30 @@
+# Byte-compiled / compiled python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+.cache/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Virtual environment
 venv/
+env/
+
+# Compiled source
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode configuration folder
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# .env file (containing sensitive information)
+.env
